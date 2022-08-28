@@ -1,3 +1,3 @@
 # Royalty-Credit-Card  
-I lost my cradit card number  
+I lost my credit card number  
 Can you help me find it?  
